@@ -231,5 +231,8 @@ The most frequently used predictors for estimating hourly wages included age, ge
 
 
 
+Links to important files<br>
+[Graphs Folder](Graphs/)<br>
+[Notebook Folder](Files/)<br>
 
 
