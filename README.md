@@ -215,6 +215,8 @@ Overall, the choice of model depends on the trade-off between performance and tr
 
 **Important Features**
 
+![PI_CatBoost](Graphs/PI_CatBoost.png)
+
 ![PI_LR](Graphs/PI_LR.png)
 
 ![PI_Lasso](Graphs/PI_Lasso.png)
@@ -225,9 +227,8 @@ Overall, the choice of model depends on the trade-off between performance and tr
 
 ![PI_AdaBoost](Graphs/PI_AdaBoost.png)
 
-![PI_CatBoost](Graphs/PI_CatBoost.png)
 
-The most frequently used predictors for estimating hourly wages included age, gender, occupation, education level, and union membership.
+The most frequently used predictors for estimating hourly wages included education level, age, occupation, gender, and union membership.
 
 
 
